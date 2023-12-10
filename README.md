@@ -14,7 +14,7 @@ Python 3: Make sure you have Python 3 installed on your system. If not, you can 
 #### Installation
 1. Clone this repository to your local machine:
 ```
-git clone [https://github.com/your-username/shoe-finder-application.git](https://github.com/huiziy/SI507_FinalProject.git)
+git clone https://github.com/huiziy/SI507_FinalProject.git
 ```
 2. Navigate to the project directory:
 ```  
