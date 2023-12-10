@@ -1,6 +1,6 @@
 
 
-# Shoe Finder Application
+# 👟 Shoe Finder Application 👟
 
 The Shoe Finder Application is a Python program that allows users to search for shoes based on various criteria such as shoe type, color, brand, price range, and rating. It fetches shopping results from an API, displays a selection interface, and provides the option to view product reviews.
 
