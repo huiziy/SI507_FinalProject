@@ -40,15 +40,9 @@ This will start the application and open a web page in your default web browser.
 
 ### Interacting with the Application
 
-**Shoe Selection**: Choose the shoe type, color, brand, price range, and rating from the selection dropdowns on the left-hand side.
-
-**Selection Results**: The right-hand side will display the results based on your selections.
-
-**Viewing Product Reviews**:
-
-After selecting a product, click the "Fetch Reviews" button.
-You will see a link to the selected product's shop.
-The application will fetch and display product reviews, including keywords and top reviews.
+- Shoe Selection: Choose the shoe type, color, brand, price range, and rating from the selection dropdowns on the left-hand side.
+- Selection Results: The right-hand side will display the results based on your selections.
+- Viewing Product Reviews: After selecting a product, click the "Fetch Reviews" button. You will see a link to the selected product's shop. The application will fetch and display product reviews, including keywords and top reviews.
 
 #### Troubleshooting
 If you encounter any issues or errors, please make sure you have followed the installation and API key setup instructions correctly.
