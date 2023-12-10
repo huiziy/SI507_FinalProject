@@ -44,12 +44,12 @@ This will start the application and open a web page in your default web browser.
 - Selection Results: The right-hand side will display the results based on your selections.
 - Viewing Product Reviews: After selecting a product, click the "Fetch Reviews" button. You will see a link to the selected product's shop. The application will fetch and display product reviews, including keywords and top reviews.
 
-#### Troubleshooting
+### Troubleshooting
 If you encounter any issues or errors, please make sure you have followed the installation and API key setup instructions correctly.
 If you are still facing problems, feel free to contact the application developer for assistance.
 
-#### Contributing
+### Contributing
 Contributions to this project are welcome. If you find any bugs, have suggestions for improvements, or would like to add new features, please submit an issue or create a pull request.
 
-#### License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
